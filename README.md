@@ -27,4 +27,4 @@ Tác giả: Nguyễn Chí Thành
 - ![image](https://github.com/BsNgChiThanh/GoogleDriveSync/assets/82578024/738cee68-5dee-447c-97c7-116ddac2fcfc)
 - ![image](https://github.com/BsNgChiThanh/GoogleDriveSync/assets/82578024/ae5a7c46-9b9d-4bb2-818f-bb5f6c03056a)
 - Xong!
--  Lưu ý: Có thể thêm nhiều tài khoản drive!
+-  Lưu ý: Có thể thêm nhiều tài khoản Google Drive!
