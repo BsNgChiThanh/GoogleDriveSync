@@ -1,3 +1,7 @@
+Tác giả: Nguyễn Chí Thành 
+
+![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231742838-ac83d773-07c4-4fd9-bbd3-7b2d8c6f5c35.jpg)
+
 # Google Drive Sync #
 
 - **Google Drive Sync ngày 16/7/2023 với Version: 77.0.3.0 có thể biến Google drive thành ổ đĩa mạng hoàn toàn miễn phí, Link down load trực tiếp [bấm vào đây](https://www.google.com/drive/download/), hoặc download gián tiếp [bấm vào đây](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Eu4ojqEzpjZJnYvywUKJEI0BfiwmaoLPXdkglT_zLSaFSw?e=xadFbb)**
